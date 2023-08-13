@@ -1,8 +1,6 @@
 ![I am UI/UX Designer](https://media.licdn.com/dms/image/C5616AQEwWMUCXpFMXA/profile-displaybackgroundimage-shrink_350_1400/0/1641552933890?e=1697673600&v=beta&t=e0osY7ld7NPs_XVwaQS7-15HhGz1Wz0CFeDKDzNqpBc)
 #Hi there 👋, My name is Tajul
 I am UI/UX Designer
-![I am UI/UX Designer](https://media.licdn.com/dms/image/C5616AQEwWMUCXpFMXA/profile-displaybackgroundimage-shrink_350_1400/0/1641552933890?e=1697673600&v=beta&t=e0osY7ld7NPs_XVwaQS7-15HhGz1Wz0CFeDKDzNqpBc)
-
 Passionate UI/UX Designer with 3 years of experience crafting intuitive and delightful digital experiences. 🎨 Creative problem solver and pixel perfectionist dedicated to transforming complex concepts into user-friendly interfaces. 🚀 Constantly exploring the intersection of design and technology, I'm driven by a love for creating meaningful connections between users and products.
 
 Skills: Web design, App design, SAAS product, Dashboard
